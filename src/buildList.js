@@ -35,8 +35,8 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
-    keywords: ["sushiswap", "default"],
+      "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/dfy-256.png",
+    keywords: ["dfy", "default"],
     tokens: [
       ...bkc,
     ]

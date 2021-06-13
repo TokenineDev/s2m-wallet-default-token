@@ -1,6 +1,6 @@
 {
   "name": "DFY Menu",
-  "timestamp": "2021-06-13T14:41:53.283Z",
+  "timestamp": "2021-06-13T15:48:05.361Z",
   "version": {
     "major": 6,
     "minor": 29,
@@ -19,7 +19,7 @@
       "address": "0xDD7847deD760a8e7FB882B4A9B0e990323415ed9",
       "chainId": 96,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/mvp.png"
     },
     {
       "name": "Wrapped Token",

@@ -5,7 +5,7 @@
     "address": "0x4dD1d9Dd0f3d9C3F6F747F99928C29924A1b42b1",
     "chainId": 96,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/bkc.png"
   },
   {
     "name": "MVP COIN",
@@ -13,7 +13,7 @@
     "address": "0xDD7847deD760a8e7FB882B4A9B0e990323415ed9",
     "chainId": 96,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/mvp.png"
   }
 
 ]
