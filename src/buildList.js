@@ -12,7 +12,6 @@ const maticTestnet = require("./tokens/matic-testnet.json");
 const xdai = require("./tokens/xdai.json");
 const bkc = require("./tokens/bkc.json");
 const bsc = require("./tokens/bsc.json");
-const bscTestnet = require("./tokens/bsc-testnet.json");
 const moonbase = require("./tokens/moonbase.json");
 const avalanche = require("./tokens/avalanche.json");
 const fuji = require("./tokens/fuji.json");
