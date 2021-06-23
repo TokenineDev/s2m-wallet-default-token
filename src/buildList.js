@@ -38,6 +38,7 @@ module.exports = function buildList() {
     keywords: ["dfy", "default"],
     tokens: [
       ...bkc,
+      ...bsc,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
