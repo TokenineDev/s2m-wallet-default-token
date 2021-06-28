@@ -22,10 +22,11 @@ const harmonyTestnet = require("./tokens/harmony-testnet.json");
 const okex = require("./tokens/okex.json");
 const okexTestnet = require("./tokens/okex-testnet.json");
 const arbitrum = require("./tokens/arbitrum.json");
+const xchain = require("./tokens/xchain.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "DFY Menu",
+    name: "DFY Tokens List",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -39,6 +40,7 @@ module.exports = function buildList() {
     tokens: [
       ...bkc,
       ...bsc,
+      ...xchain,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
