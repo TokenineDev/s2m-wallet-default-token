@@ -1,10 +1,10 @@
 {
   "name": "DFY Tokens List",
-  "timestamp": "2021-07-02T04:47:18.118Z",
+  "timestamp": "2021-07-02T04:56:44.281Z",
   "version": {
     "major": 6,
     "minor": 31,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/dfy-256.png",
