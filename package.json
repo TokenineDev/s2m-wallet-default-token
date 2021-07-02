@@ -1,6 +1,6 @@
 {
   "name": "dfy-default-token-list",
-  "version": "6.31.2",
+  "version": "6.31.3",
   "description": "The DFY default token list",
   "main": "build/dfy.tokenlist.json",
   "scripts": {
