@@ -22,6 +22,14 @@
     "chainId": 35,
     "decimals": 18,
     "logoURI": "https://bscscan.com/token/images/busdt_32.png"
-  }
-
+  },
+  {
+    "name": "JFIN Tokenine",
+    "symbol": "tkJFIN",
+    "address": "0x1b159f96B83805433D6db857cB83b8aA47B23245",
+    "chainId": 35,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/jfin_35.png"
+  }   
+  
 ]

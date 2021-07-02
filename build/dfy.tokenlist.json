@@ -1,10 +1,10 @@
 {
   "name": "DFY Tokens List",
-  "timestamp": "2021-07-02T05:44:40.243Z",
+  "timestamp": "2021-07-02T06:07:43.833Z",
   "version": {
     "major": 6,
     "minor": 31,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/dfy-256.png",
@@ -20,6 +20,14 @@
       "chainId": 35,
       "decimals": 18,
       "logoURI": "https://bscscan.com/token/images/busd_32.png"
+    },
+    {
+      "name": "JFIN Tokenine",
+      "symbol": "tkJFIN",
+      "address": "0x1b159f96B83805433D6db857cB83b8aA47B23245",
+      "chainId": 35,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/jfin_35.png"
     },
     {
       "name": "USDT Tokenine",
