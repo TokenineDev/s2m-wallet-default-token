@@ -6,7 +6,22 @@
     "chainId": 35,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/xth.png"
+  },
+  {
+    "name": "BUSD (Tokenine)",
+    "symbol": "BUSD",
+    "address": "0x41A5aF300EeA705C73BB65d8DE9e032Ab9875529",
+    "chainId": 35,
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/token/images/busd_32.png"
+  },
+  {
+    "name": "USDT (Tokenine)",
+    "symbol": "USDT",
+    "address": "0xD056BA4eeC61eCeD59753dcf603e8825b8f07C25",
+    "chainId": 35,
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/token/images/usdt_32.png"
   }
-
 
 ]
