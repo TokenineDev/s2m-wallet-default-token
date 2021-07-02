@@ -1,6 +1,6 @@
 {
   "name": "DFY Tokens List",
-  "timestamp": "2021-07-02T05:22:01.517Z",
+  "timestamp": "2021-07-02T05:44:40.243Z",
   "version": {
     "major": 6,
     "minor": 31,
@@ -15,7 +15,7 @@
   "tokens": [
     {
       "name": "BUSD Tokenine",
-      "symbol": "tBUSD",
+      "symbol": "tkBUSD",
       "address": "0x41A5aF300EeA705C73BB65d8DE9e032Ab9875529",
       "chainId": 35,
       "decimals": 18,
@@ -23,7 +23,7 @@
     },
     {
       "name": "USDT Tokenine",
-      "symbol": "tUSDT",
+      "symbol": "tkUSDT",
       "address": "0xD056BA4eeC61eCeD59753dcf603e8825b8f07C25",
       "chainId": 35,
       "decimals": 18,
@@ -332,6 +332,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12882/small/Injective_Icon.png?1613669548"
+    },
+    {
+      "name": "JFIN Token",
+      "symbol": "JFIN",
+      "address": "0x8ad88bc768048596f58cd6572dbab979274faccb",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/jfin_35.png"
     },
     {
       "name": "JNTR/b",

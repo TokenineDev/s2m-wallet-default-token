@@ -16,6 +16,14 @@
     "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/bolo.png"
   },
   {
+    "name": "JFIN Token",
+    "symbol": "JFIN",
+    "address": "0x8ad88bc768048596f58cd6572dbab979274faccb",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/jfin_35.png"
+  },  
+  {
     "name": "BUSD Token",
     "symbol": "BUSD",
     "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
