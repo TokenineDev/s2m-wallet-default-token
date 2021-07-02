@@ -21,15 +21,8 @@
       "decimals": 18,
       "logoURI": "https://bscscan.com/token/images/busd_32.png"
     },
-    {
-      "name": "USDT (Tokenine)",
-      "symbol": "tUSDT",
-      "address": "0xD056BA4eeC61eCeD59753dcf603e8825b8f07C25",
-      "chainId": 35,
-      "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/usdt_32.png"
-    },
-    {
+
+   {
       "name": "Wrapped Token",
       "symbol": "WXTH",
       "address": "0xF84646c667B3E4d0CD74f4Bd1C1Ee7FDA119AE5b",
