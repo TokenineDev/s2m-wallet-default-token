@@ -1,6 +1,6 @@
 {
   "name": "DFY Tokens List",
-  "timestamp": "2021-07-02T05:04:28.694Z",
+  "timestamp": "2021-07-02T05:13:01.007Z",
   "version": {
     "major": 6,
     "minor": 31,
@@ -14,7 +14,7 @@
   ],
   "tokens": [
     {
-      "name": "BUSD (Tokenine)",
+      "name": "BUSD Tokenine",
       "symbol": "tBUSD",
       "address": "0x41A5aF300EeA705C73BB65d8DE9e032Ab9875529",
       "chainId": 35,
@@ -22,7 +22,7 @@
       "logoURI": "https://bscscan.com/token/images/busd_32.png"
     },
     {
-      "name": "USDT (Tokenine)",
+      "name": "USDT Tokenine",
       "symbol": "tUSDT",
       "address": "0xD056BA4eeC61eCeD59753dcf603e8825b8f07C25",
       "chainId": 35,
