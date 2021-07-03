@@ -30,6 +30,14 @@
     "chainId": 35,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/jfin_35.png"
-  }   
+  },
+  {
+    "name": "SCZ Tokenine",
+    "symbol": "tkSCZ",
+    "address": "0x91c84DE7f4b347D3934A0f699A58521e95533ce0",
+    "chainId": 35,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/scz.png"
+  }
   
 ]
