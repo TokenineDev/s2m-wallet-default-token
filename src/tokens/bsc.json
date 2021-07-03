@@ -16,6 +16,14 @@
     "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/bolo.png"
   },
   {
+    "name": "SCZ Token",
+    "symbol": "SCZ",
+    "address": "0x39f1014a88c8ec087cedf1bfc7064d24f507b894",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/scz.png"
+  },
+  {
     "name": "JFIN Token",
     "symbol": "JFIN",
     "address": "0x8ad88bc768048596f58cd6572dbab979274faccb",

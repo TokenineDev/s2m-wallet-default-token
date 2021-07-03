@@ -1,6 +1,6 @@
 {
   "name": "DFY Tokens List",
-  "timestamp": "2021-07-02T11:53:22.355Z",
+  "timestamp": "2021-07-03T06:21:46.864Z",
   "version": {
     "major": 6,
     "minor": 32,
@@ -516,6 +516,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13504/small/Group_10572.png?1610534130"
+    },
+    {
+      "name": "SCZ Token",
+      "symbol": "SCZ",
+      "address": "0x39f1014a88c8ec087cedf1bfc7064d24f507b894",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/scz.png"
     },
     {
       "name": "SPARTAN PROTOCOL TOKEN",
