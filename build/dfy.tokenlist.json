@@ -1,6 +1,6 @@
 {
   "name": "DFY Tokens List",
-  "timestamp": "2021-07-03T06:37:18.302Z",
+  "timestamp": "2021-07-03T07:06:27.700Z",
   "version": {
     "major": 6,
     "minor": 33,
@@ -732,6 +732,14 @@
       "chainId": 96,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/jfin_35.png"
+    },
+    {
+      "name": "SCZ Tokenine",
+      "symbol": "tkSCZ",
+      "address": "0x943eF1A7727Aa3b09931e6985953D9728F406340",
+      "chainId": 96,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/scz.png"
     },
     {
       "name": "USDT Tokenine",
