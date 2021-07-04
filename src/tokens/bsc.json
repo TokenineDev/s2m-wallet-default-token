@@ -25,7 +25,7 @@
   },
   {
     "name": "MVP Tokenine",
-    "symbol": "ttMVP",
+    "symbol": "tkMVP",
     "address": "0xc6deadba298221efbe909a26b97e6b9cd465242b",
     "chainId": 56,
     "decimals": 18,
