@@ -1,9 +1,9 @@
 {
   "name": "DFY Tokens List",
-  "timestamp": "2021-07-03T07:06:27.700Z",
+  "timestamp": "2021-07-04T02:30:31.778Z",
   "version": {
     "major": 6,
-    "minor": 33,
+    "minor": 35,
     "patch": 0
   },
   "tags": {},
@@ -580,6 +580,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13545/small/iMqC3F_p_400x400.png?1609711856"
+    },
+    {
+      "name": "MVP Tokenine",
+      "symbol": "ttMVP",
+      "address": "0xc6deadba298221efbe909a26b97e6b9cd465242b",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/mvp.png"
     },
     {
       "name": "Trust Wallet",

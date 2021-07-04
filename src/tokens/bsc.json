@@ -24,6 +24,14 @@
     "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/scz.png"
   },
   {
+    "name": "MVP Tokenine",
+    "symbol": "ttMVP",
+    "address": "0xc6deadba298221efbe909a26b97e6b9cd465242b",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/mvp.png"
+  },
+  {
     "name": "JFIN Token",
     "symbol": "JFIN",
     "address": "0x8ad88bc768048596f58cd6572dbab979274faccb",
