@@ -1,9 +1,9 @@
 {
   "name": "DFY Tokens List",
-  "timestamp": "2021-07-04T02:56:45.932Z",
+  "timestamp": "2021-07-22T04:42:39.797Z",
   "version": {
     "major": 6,
-    "minor": 35,
+    "minor": 36,
     "patch": 0
   },
   "tags": {},
@@ -13,6 +13,22 @@
     "default"
   ],
   "tokens": [
+    {
+      "name": "MePoint",
+      "symbol": "MEE",
+      "address": "0xa518f3438586a577B592067242774F348789455F",
+      "chainId": 35,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/mee_256.png"
+    },
+    {
+      "name": "ShopLive Point",
+      "symbol": "SLP",
+      "address": "0x4B177d3Cddd8dF8E5BdC98588712344FBDbaB286",
+      "chainId": 35,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/slp_256.png"
+    },
     {
       "name": "BUSD Tokenine",
       "symbol": "tkBUSD",
