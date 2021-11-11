@@ -1,6 +1,6 @@
 {
   "name": "S2M Tokens List",
-  "timestamp": "2021-11-11T06:58:12.223Z",
+  "timestamp": "2021-11-11T07:08:45.236Z",
   "version": {
     "major": 6,
     "minor": 36,
@@ -19,7 +19,7 @@
       "address": "0x46BA35B930B497a23F6e4182051729Fe6Cb0A974",
       "chainId": 35,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/S2M_F.png"
+      "logoURI": "https://raw.githubusercontent.com/TokenineDev/s2m-wallet-default-token/main/src/images/S2M_F.png"
     },
     {
       "name": "Wrapped Token",
@@ -27,7 +27,7 @@
       "address": "0xF84646c667B3E4d0CD74f4Bd1C1Ee7FDA119AE5b",
       "chainId": 35,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/xth.png"
+      "logoURI": "https://raw.githubusercontent.com/TokenineDev/s2m-wallet-default-token/main/src/images/xth.png"
     }
   ]
 }
