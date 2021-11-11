@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Wrapped Token",
+    "symbol": "WXTH",
+    "address": "0xF84646c667B3E4d0CD74f4Bd1C1Ee7FDA119AE5b",
+    "chainId": 35,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/xth.png"
+  },
+  {
+    "name": "stock2morrow",
+    "symbol": "S2M",
+    "address": "0x46BA35B930B497a23F6e4182051729Fe6Cb0A974",
+    "chainId": 35,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/S2M_F.png"
+  }
+]
