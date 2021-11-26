@@ -1,6 +1,6 @@
 {
   "name": "S2M Tokens List",
-  "timestamp": "2021-11-11T07:08:45.236Z",
+  "timestamp": "2021-11-26T08:21:35.220Z",
   "version": {
     "major": 6,
     "minor": 36,
@@ -16,7 +16,7 @@
     {
       "name": "stock2morrow",
       "symbol": "S2M",
-      "address": "0x46BA35B930B497a23F6e4182051729Fe6Cb0A974",
+      "address": "0x0b7891Bc15ad8291efA46C72AC0Ce2246fCDC56d",
       "chainId": 35,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/TokenineDev/s2m-wallet-default-token/main/src/images/S2M_F.png"
